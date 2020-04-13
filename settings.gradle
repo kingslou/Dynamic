@@ -1,0 +1,4 @@
+rootProject.name='Dynamic'
+include ':app'
+include ':plugin'
+include ':pluginlibary'
